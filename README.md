@@ -1,2 +1,2 @@
 # Projects
-Develop a Frontend for Outfit Management System
+Develop a Frontend for Projects.
